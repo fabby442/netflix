@@ -1,0 +1,7 @@
+function header() {
+    return(
+        <header style={{
+            background;
+        }}
+    )
+}
